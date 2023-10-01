@@ -7,6 +7,7 @@
 -----------------Coders Rank ------------------------------------------------------------------------------------------
 
 [My Profile](https://profile.codersrank.io/user/johnnyfsa)
+![Coders Rank Skill Chart](https://imagizer.imageshack.com/img922/1263/GiW5UO.png)
 <!---
 johnnyfsa/johnnyfsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
