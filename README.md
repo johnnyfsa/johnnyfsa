@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnnyfsa
-- 👀 I’m interested in video games, computer graphics, computer vision, artificial intelligence and detabase modeling
-- 🌱 I’m currently learning c# and react 
-- 💞️ I’m looking to collaborate on game development projects, data science, AI modeling and computer graphics projects 
+- 👀 I’m interested in video games, computer graphics, development in general, artificial intelligence and database modeling
+- 🌱 I’m currently learning java Spring Boot and javascript
+- 💞️ I’m looking to collaborate on game development projects, data science, AI modeling, Web Development and computer Graphics 
 - 📫 How to reach me : you can reach me at joaofeirense@gmail.com or contact me on twitter @joaotrucker
 
 -----------------Coders Rank ------------------------------------------------------------------------------------------
